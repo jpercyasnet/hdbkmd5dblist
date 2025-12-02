@@ -6,4 +6,4 @@ Also has the option to access the backup database to determine no backups, 1 bac
 Very slow process, but good to run in background.
 
 This program calls winitsize01 to get the smallest monitor size.
-<img src="image/hdbkmd5dblist.png" width="800px" />
+<img src="image/hdbkmd5dblist.jpg" width="800px" />
