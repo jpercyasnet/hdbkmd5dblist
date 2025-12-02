@@ -1,0 +1,15 @@
+[package]
+name = "hdbkmd5dblist"
+version = "0.1.0"
+authors = ["jp <jpercyasnet@yahoo.com>"]
+edition = "2024"
+publish = false
+
+[dependencies]
+iced = "^0"
+rfd = { version = "^0", features = ["xdg-portal"] }
+kamadak-exif = "^0"
+chrono = "^0"
+walkdir = "^0"
+md5 = "^0"
+rusqlite = { version = "^0", features = ["bundled"] }
