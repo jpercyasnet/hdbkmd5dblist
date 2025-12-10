@@ -1,4 +1,4 @@
-# hdbkmd5sum
+# hdbkmd5dblist
 Rust-Iced program: reads a hard drive directory and outputs a csv file with vertical bar separator and generates md5sum for each file.
 The checkbox is for bluray disks that where dumped to harddrive.
 This is processed with a seq. file, so it will process given a start and end line. 
